@@ -1,0 +1,22 @@
+
+hr{
+background-color: black;
+width:10%;
+margin-left:0;
+} 
+li{border-right: 1px solid black;}
+.centrado{margin:auto;}
+.coder img{width:200px;
+	height:200px;
+	margin: 1px;
+	display: inline-block;
+	}
+table{border:2px;
+	  margin-right:2px solid black;
+       }
+span{
+position:relative;
+left:-150px;
+color:white;
+top:-10px;
+	}

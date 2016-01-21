@@ -1,0 +1,53 @@
+.centrado img{
+	display:block;
+	margin:auto;
+}
+hr{
+	background-color: black;
+	width:50%;
+	margin:auto;
+} 
+a{   
+    margin:auto;
+ }
+.espacio{  
+	width: 5%;
+	border:2px solid black;
+}
+     
+.contenedor{
+	border-top: 2px solid gray;
+    border-bottom:2px solid gray;
+    width:20%;
+    margin:auto;
+    text-align: center;
+}
+nav a{
+	text-decoration:none;
+	display: inline-block;}
+    
+nav{
+	border-top:1px solid black;
+    border-bottom: 1px solid black;
+    text-align:center;
+    width:40%;
+    margin:auto;
+    
+}
+p{
+	text-align: center;
+}
+.coder{	
+	display: inline-block;
+}
+.tres .coder img{
+    width:300px;
+	height:300px;
+	margin: 1px;
+}
+span{
+	position:relative;
+	left:-150px;
+	color:white;
+	top:-10px;
+}
